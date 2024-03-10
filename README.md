@@ -1,4 +1,4 @@
-<p align="center">
+#<p align="center">
     <img width="250"
         src="./images/tawk-vue-logo.png"
         alt="Tawk Vue logo">
